@@ -43,6 +43,10 @@ a {
   color: #ffa64d;
 }
 
+li {
+  margin: 10px 0;
+}
+
 body {
   display: grid;
   row-gap: 5px;
